@@ -1,7 +1,7 @@
 # PUBLICATION_BARCELONNE 
 Vanqueur Concourt Wild Code School pour être publié
 
-rappor data pane sur ce lien
+rapport data pane sur ce lien
 
 https://cloud.datapane.com/reports/n3RvBv3/fran%C3%A7ais-de-barcelone/
 
